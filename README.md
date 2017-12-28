@@ -5,7 +5,7 @@ y parte de la cultura de nuestra organizacion.
 
 ## Valores de un Tektoniano
 
-
+![Screenshot](TK%20Persona%202018.png)
 
 ## MANTRA
 
