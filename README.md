@@ -3,11 +3,11 @@
 Estaremos describiendo los valores que deberia de tener toda persona en Tekton
 y parte de la cultura de nuestra organizacion.
 
-# Valores de un Tektoniano
+## Valores de un Tektoniano
 
 
 
-# MANTRA
+## MANTRA
 
 1) recruting is focus on kill comfort zone
 2) try again, fail again, fail better
