@@ -34,11 +34,11 @@ Status quo Challenger
 https://tettra.co/culture-codes
 
 
-##Ideas
+## Ideas
 
-Team player
-Example
+   Team player
+   Example
 looKing for challenges
-Tenacious
-Out of the box thinker
-Noteworthy
+   Tenacious
+   Out of the box thinker
+   Noteworthy
