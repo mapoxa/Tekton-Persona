@@ -44,6 +44,7 @@ looKing for challenges
    Noteworthy
 
 https://thoughtbot.com/playbook
+https://www.thoughtworks.com/insights/blog/makings-enduring-organizational-culture
 
 ## Finetune
 
