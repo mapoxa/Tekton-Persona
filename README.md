@@ -42,3 +42,5 @@ looKing for challenges
    Tenacious
    Out of the box thinker
    Noteworthy
+
+https://thoughtbot.com/playbook
