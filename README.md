@@ -7,6 +7,18 @@ y parte de la cultura de nuestra organizacion.
 
 ![Screenshot](TK%20Persona%202018.png)
 
+
+Assertive	// Self-Confidence	
+Adaptive	// Changes lover (impposible is nothing) //	Resilient
+Commited		
+Fast Learner // Courious		
+Grit		
+Honest		
+Make things happened practicioner //	Proactive	// Self Driven
+Out of the Box thinker		
+Team Truster		
+Status quo Challenger		
+
 ## MANTRA
 
 1) recruting is focus on kill comfort zone
