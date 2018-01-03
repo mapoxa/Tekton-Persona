@@ -27,3 +27,8 @@ Status quo Challenger
 4) throw ego and play with others ideas
 5) jedi council example
 6) creating products is not about tech is about people
+
+
+## Culture Code from other companies
+
+https://tettra.co/culture-codes
