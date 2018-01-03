@@ -44,3 +44,8 @@ looKing for challenges
    Noteworthy
 
 https://thoughtbot.com/playbook
+
+## Finetune
+
+![Screenshot](IMG_3926.jpg)
+
