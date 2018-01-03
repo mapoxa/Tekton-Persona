@@ -32,3 +32,13 @@ Status quo Challenger
 ## Culture Code from other companies
 
 https://tettra.co/culture-codes
+
+
+##Ideas
+
+Team player
+Example
+looKing for challenges
+Tenacious
+Out of the box thinker
+Noteworthy
