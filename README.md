@@ -36,14 +36,18 @@ https://tettra.co/culture-codes
 
 ## Ideas
 
-   Team player
-   Example
-looKing for challenges
-   Tenacious
-   Out of the box thinker
-   Noteworthy
+ - **T**eam player
+ - **E**xample
+ - loo**K**ing for challenges
+ - **T**enacious
+ - **O**ut of the box thinker
+ - **N**oteworthy
+
+
+
 
 https://thoughtbot.com/playbook
+
 https://www.thoughtworks.com/insights/blog/makings-enduring-organizational-culture
 
 ## Finetune
