@@ -38,6 +38,7 @@ https://tettra.co/culture-codes
 
  - **T**eam player
  - **E**xample
+ - Rol**E** Mod**E**l
  - loo**K**ing for challenges
  - **T**enacious
  - **O**ut of the box thinker
